@@ -1,2 +1,1 @@
-# first-jenkins
-My first Repo Jenkins in Github
+This is test Jenkins repo !
